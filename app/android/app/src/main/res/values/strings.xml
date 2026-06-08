@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">设备配置助手</string>
+    <string name="title_activity_main">设备配置助手</string>
+    <string name="package_name">com.bctech.devicemanager</string>
+    <string name="custom_url_scheme">com.bctech.devicemanager</string>
+</resources>

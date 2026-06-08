@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Android / Gradle
+.gradle/
+local.properties
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/**/*.iml
+
+# Capacitor generated cache
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+
+# A4 standalone Android build outputs
+A4/.gradle/
+A4/build/
+A4/app/build/
+A4/local.properties
+A4/**/*.iml
+
+# IDE / OS
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Electron build outputs
+out/
+release/
+dist-electron/
