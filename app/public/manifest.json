@@ -1,0 +1,11 @@
+{
+  "name": "设备配置助手",
+  "short_name": "配置助手",
+  "description": "C1 & O5 设备管理工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#4a90e2",
+  "lang": "zh-CN",
+  "icons": []
+}
