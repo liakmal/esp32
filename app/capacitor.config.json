@@ -1,0 +1,16 @@
+{
+  "appId": "com.bctech.devicemanager",
+  "appName": "设备配置助手",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "cleartext": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
